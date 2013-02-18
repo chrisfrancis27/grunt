@@ -1,0 +1,28 @@
+{
+  "name": "jquery-grunt",
+  "title": "jQuery Grunt",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/chrisf/jquery-grunt",
+  "author": {
+    "name": "Chris Francis",
+    "email": "chrisf@aqueduct.co.uk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisf/jquery-grunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisf/jquery-grunt/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/chrisf/jquery-grunt/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
